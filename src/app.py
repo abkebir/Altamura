@@ -1,29 +1,5 @@
 import streamlit as st
 
-
-def display_footer():
-    st.write("---")
-    st.write("### Supported by")
-    
-    col1, col2, col3, col4, col5 = st.columns(5)
-    
-    with col1:
-        st.image("C:\\Users\\PMJ\\Documents\\projets_ETX\\RAG\\ALTAMURA\\flags\\EU_POS.jpeg", caption="European Union", use_column_width=True)
-        
-    with col2:
-        st.image("C:\\Users\\PMJ\\Documents\\projets_ETX\\RAG\\ALTAMURA\\flags\\GESW-Logo.jpeg", caption="France", use_column_width=True)
-
-    with col3:
-        st.image("C:\\Users\\PMJ\\Documents\\projets_ETX\\RAG\\ALTAMURA\\flags\\logo link _bianco 2.jpg", caption="Germany", use_column_width=True)
-
-    with col4:
-        st.image("C:\\Users\\PMJ\\Documents\\projets_ETX\\RAG\\ALTAMURA\\flags\\logo_atacjl.jpeg", caption="Tunisia", use_column_width=True)
-
-    with col5:
-        st.image("C:\\Users\\PMJ\\Documents\\projets_ETX\\RAG\\ALTAMURA\\flags\\Logo_Diagonal.jpeg", caption="Italy", use_column_width=True)
-
-    st.write("For more information, contact: 3278393352")
-
 # Page configuration
 st.set_page_config(page_title="Migr-Action Final Event", layout="wide")
 
@@ -94,7 +70,6 @@ tainted her late husband's memory, and then threw herself into the flames.
 
     """)
     st.image("./images/image1.jpg", caption="Description de l'image 1")
-    display_footer()
 
 elif section == "Section 2":
     st.header("Section 2: Story from Tunisia")
@@ -108,7 +83,6 @@ I experienced two phases of adaptation, not just one. Afterward, I decided to ge
 I began to gradually meet students from my group until I knew a large number of them. That was when I found happiness. I felt part of the college, seeing people I knew and had good relationships with, exchanging greetings with each other. I felt closeness at that time, feeling I belonged to this community, not a stranger. I found them helping me with my studies because it was a completely new and difficult language at first, but I quickly adapted to the reality. From there, I began my journey of discovery in Tunisia. I visited many tourist attractions and tried to learn about as many cultures as possible. I still continue to discover and love experiencing everything new.
     """)
     st.image("image2.jpg", caption="Description de l'image 2")
-    display_footer()
 
 elif section == "Section 3":
     st.header("Section 3: Story from Italy")
@@ -123,7 +97,6 @@ Only then do I realize how out of my comfort zone life is. I stood in the street
 Finally right now I'm almost finishing my master's degree. In the end if you’re dream is big and if want someting dont wait it will automatically come to you go for it and make it on your own and please don't break down when you have the worst days of your life. There are lot of opportunities around us everytime . thank you
     """)
     st.image("image3.jpg", caption="Description de l'image 3")
-    display_footer()
 
 elif section == "Section 4":
     st.header("Section 4: Story from Germany")
@@ -141,7 +114,6 @@ When her son watches action movies, he puts on headphones.
 Due to the language barrier, communication focuses on organizational matters; she only gets insights into their emotional world non-verbally, says Friederike. She doesn't dare ask such questions via a translator app, questions about the time in the cellar, the flight or the situation of Daria and Ekaterina's husbands in Kiev.
     """)
     st.image("image4.jpg", caption="Description de l'image 4")
-    display_footer()
 
 elif section == "Section 5":
     st.header("Section 5: [Titre de l'Histoire 5]")
@@ -153,7 +125,6 @@ Carnival is great fun, yet there are also a lot of rules. Those rules, he believ
 His wife had prepared his evening suit and large traditional hat,  somehow shaped like a very narrow white boat. He gets to wear this being a member of the associations planning board, which always makes him stand a little taller. Just one last glance through the local newspaper. Turning the pages past the weather report, news from the upcoming district football tournament and the renovation of the city hall, he finds an article about a new research on secret so called “remigration”-plans, made by various members of the Afd and other known right-wing leaders. Their goal to remove people with any migration background from Germany has first been reported about a few days ago, and since then caused a lot of demonstrations. He fervently hopes those news will not be picked up tonight. You never know if one of the 25% percent of Afd-voters are part of tonights audience. They would feel lectured and repelled, which is not what he wants. Carnival is for everyone. It is inclusive. It is not political. 
     """)
     st.image("image5.jpg", caption="Description de l'image 5")
-    display_footer()
 
 elif section == "Section 6":
     st.header("Section 6: AUDIO section")
@@ -163,7 +134,7 @@ elif section == "Section 6":
     st.audio("C:\\Users\\PMJ\\Documents\\projets_ETX\\RAG\\ALTAMURA\\audios\\AUD-20240724-WA0008.mp3")  # Ajout du fichier audio avec un bouton Play
 
     st.audio("C:\\Users\\PMJ\\Documents\\projets_ETX\\RAG\\ALTAMURA\\audios\\At Night, the Light stays on.mp3")  # Ajout du fichier audio avec un bouton Play
-    display_footer()
+    
 # Footer ou espace additionnel si besoin
 def display_footer():
     st.write("---")
