@@ -18,7 +18,7 @@ Altamura, Santa Croce
 **Date:**
 August 30, 2024
 
-**Time:**  
+**Time:**
 07:00 - 08:30 PM
 
 Use the sidebar to navigate through the different sections of the event.
