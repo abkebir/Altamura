@@ -11,9 +11,15 @@ st.write("""
 Join us for the culminating event of Migr-Action, a dynamic and immersive experience celebrating youth voices and stories of migration.
 Explore creative work from 27 young participants across Italy, France, Germany and Tunisia as they delve into the complexities of migration through various mediums.
 
-**Altamura, Santa Croce,**
-**August 30, 2024,**
-**07H00 - 08H30 PM**
+
+**Location:**
+Altamura, Santa Croce
+
+**Date:**
+August 30, 2024
+
+**Time:**  
+07:00 - 08:30 PM
 
 Use the sidebar to navigate through the different sections of the event.
 """)
