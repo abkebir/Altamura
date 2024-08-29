@@ -143,10 +143,10 @@ elif section == "Section 6":
     st.write("""
     Résumé de l'histoire 6. Cette histoire illustre...
     """)
-    st.write("A story from Palestinian student living in Tunisia")
+    st.write("A story from Palestinian student living in Tunisia.")
     st.audio("./audios/AUD-20240724-WA0008.mp3")  # Ajout du fichier audio avec un bouton Play
 
-    st.write("A story from Germany ")
+    st.write("A story from a Berlin woman hosting in Ukrainian refugees.")
     st.audio("./audios/At Night, the Light stays on.mp3")  # Ajout du fichier audio avec un bouton Play
     
 # Footer ou espace additionnel si besoin
