@@ -79,7 +79,7 @@ speech. She apologized for what she had done, the pain she had caused, and how s
 tainted her late husband's memory, and then threw herself into the flames.
 
     """)
-    st.image("./images/picture1.jpg", caption="Description de l'image 1")
+    st.image("./images/picture1.jpeg", caption="Description de l'image 1")
 
 elif section == "Section 2":
     st.header("Section 2: A story from Tunisia")
@@ -92,19 +92,19 @@ Initially, I felt a strange sensation seeing all the students together, quickly 
 I experienced two phases of adaptation, not just one. Afterward, I decided to get to know people and integrate into the community and among the students. 
 I began to gradually meet students from my group until I knew a large number of them. That was when I found happiness. I felt part of the college, seeing people I knew and had good relationships with, exchanging greetings with each other. I felt closeness at that time, feeling I belonged to this community, not a stranger. I found them helping me with my studies because it was a completely new and difficult language at first, but I quickly adapted to the reality. From there, I began my journey of discovery in Tunisia. I visited many tourist attractions and tried to learn about as many cultures as possible. I still continue to discover and love experiencing everything new.
     """)
-    st.image("./images/picture2.jpg", caption="Description de l'image 2")
+    st.image("./images/picture2.jpeg", caption="Description de l'image 2")
 
 elif section == "Section 3":
     st.header("Section 3: A story from Italy")
     st.write("""
-an incredible story of an international student in Italy
+An incredible story of an international student in Italy
 
 My life is like a roller coaster traveling from city to city to study and work. I was born into a middle class family and have one brother. 
 I have studied all my life with scholarships or government funded money. I was much more worried about my father. 
 In 2022 when I was working in the IT industry as an accountant. I'm doing research to move abroad and I also want to do my master's degree. 
-After doing some research I discovered that Italy is the perfect choice because it is located in the center of Europe. I was selected at the University of Naples for the International Relations program. This program also offers scholarship opportunities. But unfortunately I don't get scholarship money in my first year. 
-Only then do I realize how out of my comfort zone life is. I stood in the streets nearby begging like I missed the last train after work and a lot of messed up experience, but Naples never let me down. I build good contacts, good networks with many new international friends. Wow, that's an amazing journey I've been on in my entire life. 
-Finally right now I'm almost finishing my master's degree. In the end if you’re dream is big and if want someting dont wait it will automatically come to you go for it and make it on your own and please don't break down when you have the worst days of your life. There are lot of opportunities around us everytime . thank you
+After doing some research I discovered that Italy is the perfect choice because it is located in the center of Europe. I was selected at the University of Naples for the International Relations program. This program also offers scholarship opportunities. But unfortunately I don't get scholarship money in my first year.
+Only then do I realize how out of my comfort zone life is. I stood in the streets nearby begging like I missed the last train after work and a lot of messed up experience, but Naples never let me down. I build good contacts, good networks with many new international friends. Wow, that's an amazing journey I've been on in my entire life.
+Finally right now I'm almost finishing my master's degree. In the end if you’re dream is big and if want someting dont wait it will automatically come to you go for it and make it on your own and please don't break down when you have the worst days of your life. There are lot of opportunities around us everytime. Thank you !
     """)
     st.image("./images/picture3.jpeg", caption="Description de l'image 3")
 
@@ -134,7 +134,7 @@ Being picked for this position is a high honour he thinks, reminiscing the sweet
 Carnival is great fun, yet there are also a lot of rules. Those rules, he believes, keep the magic of the celebration and prevent unpleasant surprises. He will never forget the catastrophic speech of a young woman last year. It felt like mockery, her humorously pointing out what she thinks of those rules and traditions, they all work so hard for to keep up. She might have a point, that it is weird that the reigning couple always has to consist of a younger woman and an older man or that the stage council is made up only of men. Even though he did not get her point of cultural appropriation, when talking about China- or India-themed dances. After all, they are nice to look at and just for fun. She was politicizing an unpolitical event and he had felt a little uncomfortable. His association is open towards everyone, even migrants. And he does not want to see colour, wouldn’t that be racist? The Turkish, Polish and migrant community of his home town simply has no interest in taking part in those celebrations. Their loss. It is just great fun. And she was confronting them with absurd accusations. Subtly shaking his head, thinking of this memory, he thought: No, you should be able to say everything. Carnival is supposed to be fun. Not political. At least not too much. They should stick to making fun of the mayors new blonde hair colour, laughing about the lengthy remodelling of the local one-track train station or mocking the hardships of being married to talkative wifes. 
 His wife had prepared his evening suit and large traditional hat,  somehow shaped like a very narrow white boat. He gets to wear this being a member of the associations planning board, which always makes him stand a little taller. Just one last glance through the local newspaper. Turning the pages past the weather report, news from the upcoming district football tournament and the renovation of the city hall, he finds an article about a new research on secret so called “remigration”-plans, made by various members of the AfD and other known right-wing leaders. Their goal to remove people with any migration background from Germany has first been reported about a few days ago, and since then caused a lot of demonstrations. He fervently hopes those news will not be picked up tonight. You never know if one of the 25% percent of AfD-voters are part of tonights audience. They would feel lectured and repelled, which is not what he wants. Carnival is for everyone. It is inclusive. It is not political. 
     """)
-    st.image("./images/picture5.jpg", caption="Description de l'image 5")
+    st.image("./images/picture5.jpeg", caption="Description de l'image 5")
 
 elif section == "Section 6":
     st.header("Audios section")
