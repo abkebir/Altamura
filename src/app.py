@@ -11,6 +11,8 @@ st.write("""
 Join us for the culminating event of Migr-Action, a dynamic and immersive experience celebrating youth voices and stories of migration.
 Explore creative work from 27 young participants across France, Tunisia, Italy, and Germany, as they delve into the complexities of migration through various mediums.
 
+Altamura, Santa Croce
+August 30, 2024       
 Use the sidebar to navigate through the different sections of the event.
 """)
 
@@ -126,7 +128,7 @@ His wife had prepared his evening suit and large traditional hat,  somehow shape
     """)
     st.image("image5.jpg", caption="Description de l'image 5")
 
-elif section == "Section 6":
+elif section == "Se":
     st.header("Section 6: AUDIO section")
     st.write("""
     Résumé de l'histoire 6. Cette histoire illustre...
