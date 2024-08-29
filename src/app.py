@@ -146,7 +146,9 @@ elif section == "Section 6":
 
     st.write("A story from a Berlin woman hosting in Ukrainian refugees.")
     st.audio("./audios/At Night, the Light stays on.mp3")  # Ajout du fichier audio avec un bouton Play
-    
+
+    st.image("./images/picture6.jpeg", caption="Coordinators team")
+
 # Footer ou espace additionnel si besoin
 def display_footer():
     st.write("---")
