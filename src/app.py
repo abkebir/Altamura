@@ -111,7 +111,8 @@ Finally right now I'm almost finishing my master's degree. In the end if you’r
 elif section == "Section 4":
     st.header("Section 4: A story from Germany")
     st.write("""
-    At night, the light stays on.
+At night, the light stays on.
+
 A Berlin woman is hosting in Ukrainian refugees. Along with the family came the horrors of war.
 
 The little girl runs back and forth. She throws herself against the bars of the crib where her brother is standing. Then she runs back to her mother, who takes her on her lap and looks out of the window. Present, but somehow not. The woman and her family have lived here in the old Berlin apartment since March 5, 2022. They fled Ukraine in four generations: grandchildren Daniel and Rosa (1 and 2), daughter Daria (22), mother Ekaterina (58) and grandmother Nadia (77). Now they are sitting at the table with tea and biscuits at lunchtime with Friederike, who has taken them in. They all want to only publish their first names. What the family has experienced is too close to their hearts, and Friederike is not keen to be in the public eye, she simply wants to help. 
