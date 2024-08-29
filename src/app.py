@@ -48,7 +48,7 @@ elif section == "Section 1":
 migrants and its impacts on his life and the lives of those around him.
 Migration in folklore tells the history of a whole nation, a story of perseverance and
 determination.
-And as a Tunisian,no story of migration will ever retell our history more than that of Alyssa
+And as a Tunisian, no story of migration will ever retell our history more than that of Alyssa
 (also known as Dido). She was a Phoenician princess to Tyre (modern Lebanon) in 800 Bc ,
 married to a wealthy man and lived as happy as one can be.
 As the days passed, her older brother pygmalion, the heir to the throne, wanted her
@@ -97,14 +97,14 @@ I began to gradually meet students from my group until I knew a large number of 
 elif section == "Section 3":
     st.header("Section 3: A story from Italy")
     st.write("""
-An incredible story of an international student in Italy
+An incredible story of an international student in Italy.
 
 My life is like a roller coaster traveling from city to city to study and work. I was born into a middle class family and have one brother. 
 I have studied all my life with scholarships or government funded money. I was much more worried about my father. 
 In 2022 when I was working in the IT industry as an accountant. I'm doing research to move abroad and I also want to do my master's degree. 
 After doing some research I discovered that Italy is the perfect choice because it is located in the center of Europe. I was selected at the University of Naples for the International Relations program. This program also offers scholarship opportunities. But unfortunately I don't get scholarship money in my first year.
 Only then do I realize how out of my comfort zone life is. I stood in the streets nearby begging like I missed the last train after work and a lot of messed up experience, but Naples never let me down. I build good contacts, good networks with many new international friends. Wow, that's an amazing journey I've been on in my entire life.
-Finally right now I'm almost finishing my master's degree. In the end if you’re dream is big and if want someting dont wait it will automatically come to you go for it and make it on your own and please don't break down when you have the worst days of your life. There are lot of opportunities around us everytime. Thank you !
+Finally right now I'm almost finishing my master's degree. In the end if you’re dream is big and if want someting dont wait it will automatically come to you go for it and make it on your own and please don't break down when you have the worst days of your life. There are lot of opportunities around us everytime. Thank you!
     """)
     st.image("./images/picture3.jpeg", caption="Dance team")
 
