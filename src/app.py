@@ -9,11 +9,11 @@ st.title("Migr-Action Final Event")
 # Brief description of the event
 st.write("""
 Join us for the culminating event of Migr-Action, a dynamic and immersive experience celebrating youth voices and stories of migration.
-Explore creative work from 27 young participants across France, Tunisia, Italy, and Germany, as they delve into the complexities of migration through various mediums.
+Explore creative work from 27 young participants across Italy, France, Germany and Tunisia as they delve into the complexities of migration through various mediums.
 
-**Altamura, Santa Croce**  
-**August 30, 2024** 
-              
+**Altamura, Santa Croce**
+**August 30, 2024**
+
 Use the sidebar to navigate through the different sections of the event.
 """)
 
