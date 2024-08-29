@@ -181,7 +181,7 @@ def display_footer():
 
     
     # Contact Information
-    st.write("For more information, contact: 3278393352")
+    st.write("For more information, contact: +39 3278393352")
 
 # Call the footer function to display it on all pages
 display_footer()
