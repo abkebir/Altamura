@@ -79,7 +79,7 @@ speech. She apologized for what she had done, the pain she had caused, and how s
 tainted her late husband's memory, and then threw herself into the flames.
 
     """)
-    st.image("./images/picture1.jpeg", caption="Description de l'image 1")
+    st.image("./images/pitcur1.jpeg", caption="Description de l'image 1")
 
 elif section == "Section 2":
     st.header("Section 2: A story from Tunisia")
@@ -130,6 +130,7 @@ elif section == "Section 5":
     st.header("Section 5: A story from Germany")
     st.write("""
 An unpolitical city.
+
 Today is a big day. Months of eager board discussions, secret-keeping and impatient anticipation. Even though Spring is not yet around the corner, the city feels like it is waking up. Carnival is beginning, bringing six weeks of happy celebration, lots of alcohol and costuming with it. People like to call it the fifth season, and it starts tonight, with the season-opening carnival show, promising more or less humorous speeches, themed dances performed and the reveal of the new seasonal and somewhat-serious prince and princess. 
 Being picked for this position is a high honour he thinks, reminiscing the sweet memories of the carnival season where he got to fill this position 28 years ago. In the past years he got to pick the new couple. The occurrence of any romantic feelings prevented by the prince being at least a quarter century older, the couple is nominated freshly every year, on the basis of involvement in previous carnival seasons, connections with important carnival club members and financial fluidity. 
 Carnival is great fun, yet there are also a lot of rules. Those rules, he believes, keep the magic of the celebration and prevent unpleasant surprises. He will never forget the catastrophic speech of a young woman last year. It felt like mockery, her humorously pointing out what she thinks of those rules and traditions, they all work so hard for to keep up. She might have a point, that it is weird that the reigning couple always has to consist of a younger woman and an older man or that the stage council is made up only of men. Even though he did not get her point of cultural appropriation, when talking about China- or India-themed dances. After all, they are nice to look at and just for fun. She was politicizing an unpolitical event and he had felt a little uncomfortable. His association is open towards everyone, even migrants. And he does not want to see colour, wouldn’t that be racist? The Turkish, Polish and migrant community of his home town simply has no interest in taking part in those celebrations. Their loss. It is just great fun. And she was confronting them with absurd accusations. Subtly shaking his head, thinking of this memory, he thought: No, you should be able to say everything. Carnival is supposed to be fun. Not political. At least not too much. They should stick to making fun of the mayors new blonde hair colour, laughing about the lengthy remodelling of the local one-track train station or mocking the hardships of being married to talkative wifes. 
