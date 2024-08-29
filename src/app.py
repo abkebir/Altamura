@@ -31,7 +31,7 @@ if section == "Introduction":
 Through various mediums, these participants will showcase their unique perspectives on one of the most pressing issues of our time. From immersive audio installations to intimate performances and interactive exhibitions, this event offers a multifaceted experience that highlights the diversity and complexity of migration stories.
 
 Set against the historic backdrop of Santa Croce in Altamura, Italy, this event provides a powerful platform for dialogue and cultural exchange. Attendees will have the opportunity to witness the creativity and resilience of these young voices as they navigate and express their migration narratives. 
-             
+
 Don’t miss this extraordinary event that bridges cultures and connects communities through art and storytelling.    """)
 
 elif section == "Section 1":
@@ -150,13 +150,15 @@ def display_footer():
         st.image("./flags/logo link _bianco 2.jpg", caption="Italy", width=220)
 
     with col4:
-        st.image("./flags/logo_atacjl.jpeg", caption="Tunisia", width=170)
-
-    with col5:
         st.image("./flags/Logo_Diagonal.jpeg", caption="France", width=130)
 
-    with col6:
+
+    with col5:
         st.image("./flags/GESW-Logo.jpeg", caption="Germany", width=170)
+
+    with col6:
+        st.image("./flags/logo_atacjl.jpeg", caption="Tunisia", width=170)
+
     
 
 
