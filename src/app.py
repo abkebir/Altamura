@@ -144,16 +144,16 @@ def display_footer():
     col3, col4, col5, col6 = st.columns(4)
 
     with col3:
-        st.image("./flags/logo link _bianco 2.jpg", caption="Germany", width=220)
+        st.image("./flags/logo link _bianco 2.jpg", caption="Italy", width=220)
 
     with col4:
         st.image("./flags/logo_atacjl.jpeg", caption="Tunisia", width=170)
 
     with col5:
-        st.image("./flags/Logo_Diagonal.jpeg", caption="Italy", width=130)
+        st.image("./flags/Logo_Diagonal.jpeg", caption="France", width=130)
 
     with col6:
-        st.image("./flags/GESW-Logo.jpeg", caption="GESW", width=170)
+        st.image("./flags/GESW-Logo.jpeg", caption="Germany", width=170)
     
 
 
