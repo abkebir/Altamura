@@ -129,8 +129,8 @@ His wife had prepared his evening suit and large traditional hat,  somehow shape
     """)
     st.image("image5.jpg", caption="Description de l'image 5")
 
-elif section == "Se":
-    st.header("Section 6: AUDIO section")
+elif section == "Section 6":
+    st.header("Audios section")
     st.write("""
     Résumé de l'histoire 6. Cette histoire illustre...
     """)
