@@ -21,7 +21,7 @@ August 30, 2024
 **Time:**
 07:00 - 08:30 PM
 
-Use the sidebar to navigate through the different sections of the event.
+Use the sidebar to navigate through the different stories of the event.
 """)
 
 
