@@ -131,9 +131,9 @@ elif section == "Section 6":
     st.write("""
     Résumé de l'histoire 6. Cette histoire illustre...
     """)
-    st.audio("C:\\Users\\PMJ\\Documents\\projets_ETX\\RAG\\ALTAMURA\\audios\\AUD-20240724-WA0008.mp3")  # Ajout du fichier audio avec un bouton Play
+    st.audio("./audios/AUD-20240724-WA0008.mp3")  # Ajout du fichier audio avec un bouton Play
 
-    st.audio("C:\\Users\\PMJ\\Documents\\projets_ETX\\RAG\\ALTAMURA\\audios\\At Night, the Light stays on.mp3")  # Ajout du fichier audio avec un bouton Play
+    st.audio("./audios/At Night, the Light stays on.mp3")  # Ajout du fichier audio avec un bouton Play
     
 # Footer ou espace additionnel si besoin
 def display_footer():
