@@ -106,7 +106,7 @@ After doing some research I discovered that Italy is the perfect choice because 
 Only then do I realize how out of my comfort zone life is. I stood in the streets nearby begging like I missed the last train after work and a lot of messed up experience, but Naples never let me down. I build good contacts, good networks with many new international friends. Wow, that's an amazing journey I've been on in my entire life. 
 Finally right now I'm almost finishing my master's degree. In the end if you’re dream is big and if want someting dont wait it will automatically come to you go for it and make it on your own and please don't break down when you have the worst days of your life. There are lot of opportunities around us everytime . thank you
     """)
-    st.image("./images/picture2.jpeg", caption="Description de l'image 3")
+    st.image("./images/picture3.jpeg", caption="Description de l'image 3")
 
 elif section == "Section 4":
     st.header("Section 4: A story from Germany")
@@ -123,7 +123,7 @@ Every now and then they eat together. "Ekaterina is the kitchen chef. She often 
 When her son watches action movies, he puts on headphones.
 Due to the language barrier, communication focuses on organizational matters; she only gets insights into their emotional world non-verbally, says Friederike. She doesn't dare ask such questions via a translator app, questions about the time in the cellar, the flight or the situation of Daria and Ekaterina's husbands in Kiev.
     """)
-    st.image("./images/picture3.jpeg", caption="Description de l'image 4")
+    st.image("./images/picture4.jpeg", caption="Description de l'image 4")
 
 elif section == "Section 5":
     st.header("Section 5: A story from Germany")
