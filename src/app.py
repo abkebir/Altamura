@@ -13,7 +13,7 @@ Explore creative work from 27 young participants across Italy, France, Germany a
 
 **Altamura, Santa Croce,**
 **August 30, 2024,**
-** 07H00 - 08H30 PM**
+**07H00 - 08H30 PM**
 
 Use the sidebar to navigate through the different sections of the event.
 """)
