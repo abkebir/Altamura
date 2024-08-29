@@ -79,7 +79,7 @@ speech. She apologized for what she had done, the pain she had caused, and how s
 tainted her late husband's memory, and then threw herself into the flames.
 
     """)
-    st.image("./images/pitcure1.jpeg", caption="Description de l'image 1")
+    st.image("./images/pitcure1.jpeg", caption="Song Team")
 
 elif section == "Section 2":
     st.header("Section 2: A story from Tunisia")
