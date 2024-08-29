@@ -42,7 +42,7 @@ Set against the historic backdrop of Santa Croce in Altamura, Italy, this event 
 Don’t miss this extraordinary event that bridges cultures and connects communities through art and storytelling.    """)
 
 elif section == "Section 1":
-    st.header("Section 1: Story from Tunisia")
+    st.header("Section 1: A story from Tunisia")
     st.write("""
     While the personal stories of migration bring the detrimental aspects of migration on the
 migrants and its impacts on his life and the lives of those around him.
@@ -79,10 +79,10 @@ speech. She apologized for what she had done, the pain she had caused, and how s
 tainted her late husband's memory, and then threw herself into the flames.
 
     """)
-    st.image("./images/image1.jpg", caption="Description de l'image 1")
+    st.image("./images/picture1.jpeg", caption="Description de l'image 1")
 
 elif section == "Section 2":
-    st.header("Section 2: Story from Tunisia")
+    st.header("Section 2:A story from Tunisia")
     st.write("""
 I am a Palestinian student from Gaza studying at the Faculty of Medicine in Sousse. My story began when I succeeded in the baccalaureate with a very high average. I wished to study medicine in my country alongside my family, but my grades didn't qualify me for universities in Gaza. The difference was minimal, but I started studying pharmacy and was content with that choice. However, when scholarships became available on the ministry's website, the first was from Morocco, but I couldn't register because the deadline had passed. Then came a scholarship from Algeria, but my name wasn't among the candidates. I felt hopeless and decided to continue my studies in my country and specialization. However, when a scholarship to Tunisia became available, my elder brother didn't want me to lose hope. He was more eager than me to register, However, I told him I definitely didn't want it, but without my knowledge, my brother entered my information and registered on my behalf. After some time, I received an acceptance letter, and he came to inform me, which was a pleasant surprise as I had no idea. It was truly a strange twist of fate, and I started preparing for the journey. However, the journey was extremely exhausting because we had to travel through the Palestinian-Egyptian land route. Initially, it was tough for us to pass through these borders, and after numerous exhausting attempts, we finally managed to reach Tunisian territory.
 Initially, it was challenging to adapt to Tunisia due to cultural differences, dialects, interactions, and even the language of instruction. 
@@ -95,7 +95,7 @@ I began to gradually meet students from my group until I knew a large number of 
     st.image("image2.jpg", caption="Description de l'image 2")
 
 elif section == "Section 3":
-    st.header("Section 3: Story from Italy")
+    st.header("Section 3:A story from Italy")
     st.write("""
 an incredible story of an international student in Italy
 
@@ -106,10 +106,10 @@ After doing some research I discovered that Italy is the perfect choice because 
 Only then do I realize how out of my comfort zone life is. I stood in the streets nearby begging like I missed the last train after work and a lot of messed up experience, but Naples never let me down. I build good contacts, good networks with many new international friends. Wow, that's an amazing journey I've been on in my entire life. 
 Finally right now I'm almost finishing my master's degree. In the end if you’re dream is big and if want someting dont wait it will automatically come to you go for it and make it on your own and please don't break down when you have the worst days of your life. There are lot of opportunities around us everytime . thank you
     """)
-    st.image("image3.jpg", caption="Description de l'image 3")
+    st.image("/images/picture2.jpeg", caption="Description de l'image 3")
 
 elif section == "Section 4":
-    st.header("Section 4: Story from Germany")
+    st.header("Section 4: A story from Germany")
     st.write("""
     At night, the light stays on
 A Berlin woman is hosting in Ukrainian refugees. Along with the family came the horrors of war.
@@ -123,7 +123,7 @@ Every now and then they eat together. "Ekaterina is the kitchen chef. She often 
 When her son watches action movies, he puts on headphones.
 Due to the language barrier, communication focuses on organizational matters; she only gets insights into their emotional world non-verbally, says Friederike. She doesn't dare ask such questions via a translator app, questions about the time in the cellar, the flight or the situation of Daria and Ekaterina's husbands in Kiev.
     """)
-    st.image("image4.jpg", caption="Description de l'image 4")
+    st.image("/images/picture3.jpeg", caption="Description de l'image 4")
 
 elif section == "Section 5":
     st.header("Section 5: [Titre de l'Histoire 5]")
@@ -134,7 +134,7 @@ Being picked for this position is a high honour he thinks, reminiscing the sweet
 Carnival is great fun, yet there are also a lot of rules. Those rules, he believes, keep the magic of the celebration and prevent unpleasant surprises. He will never forget the catastrophic speech of a young woman last year. It felt like mockery, her humorously pointing out what she thinks of those rules and traditions, they all work so hard for to keep up. She might have a point, that it is weird that the reigning couple always has to consist of a younger woman and an older man or that the stage council is made up only of men. Even though he did not get her point of cultural appropriation, when talking about China- or India-themed dances. After all, they are nice to look at and just for fun. She was politicizing an unpolitical event and he had felt a little uncomfortable. His association is open towards everyone, even migrants. And he does not want to see colour, wouldn’t that be racist? The Turkish, Polish and migrant community of his home town simply has no interest in taking part in those celebrations. Their loss. It is just great fun. And she was confronting them with absurd accusations. Subtly shaking his head, thinking of this memory, he thought: No, you should be able to say everything. Carnival is supposed to be fun.. Not political. At least not too much. They should stick to making fun of the mayors new blonde hair colour, laughing about the lengthy remodelling of the local one-track train station or mocking the hardships of being married to talkative wifes. 
 His wife had prepared his evening suit and large traditional hat,  somehow shaped like a very narrow white boat. He gets to wear this being a member of the associations planning board, which always makes him stand a little taller. Just one last glance through the local newspaper. Turning the pages past the weather report, news from the upcoming district football tournament and the renovation of the city hall, he finds an article about a new research on secret so called “remigration”-plans, made by various members of the Afd and other known right-wing leaders. Their goal to remove people with any migration background from Germany has first been reported about a few days ago, and since then caused a lot of demonstrations. He fervently hopes those news will not be picked up tonight. You never know if one of the 25% percent of Afd-voters are part of tonights audience. They would feel lectured and repelled, which is not what he wants. Carnival is for everyone. It is inclusive. It is not political. 
     """)
-    st.image("image5.jpg", caption="Description de l'image 5")
+    st.image("/images/picture5.jpeg", caption="Description de l'image 5")
 
 elif section == "Section 6":
     st.header("Audios section")
